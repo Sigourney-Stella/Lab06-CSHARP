@@ -1,0 +1,15 @@
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\bin\Debug\net8.0\Lab_5_BT03.exe
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\bin\Debug\net8.0\Lab_5_BT03.deps.json
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\bin\Debug\net8.0\Lab_5_BT03.runtimeconfig.json
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\bin\Debug\net8.0\Lab_5_BT03.dll
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\bin\Debug\net8.0\Lab_5_BT03.pdb
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.AssemblyInfoInputs.cache
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.AssemblyInfo.cs
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.csproj.CoreCompileInputs.cache
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.sourcelink.json
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.dll
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\refint\Lab_5_BT03.dll
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.pdb
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\Lab_5_BT03.genruntimeconfig.cache
+E:\BackEnd-Web\Lab\Lab_5\Lab_5_BT03\obj\Debug\net8.0\ref\Lab_5_BT03.dll
