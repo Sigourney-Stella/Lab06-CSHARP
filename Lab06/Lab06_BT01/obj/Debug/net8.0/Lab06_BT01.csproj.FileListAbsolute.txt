@@ -1,0 +1,15 @@
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\bin\Debug\net8.0\Lab06_BT01.exe
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\bin\Debug\net8.0\Lab06_BT01.deps.json
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\bin\Debug\net8.0\Lab06_BT01.runtimeconfig.json
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\bin\Debug\net8.0\Lab06_BT01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\bin\Debug\net8.0\Lab06_BT01.pdb
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.AssemblyInfoInputs.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.AssemblyInfo.cs
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.csproj.CoreCompileInputs.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.sourcelink.json
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\refint\Lab06_BT01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.pdb
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\Lab06_BT01.genruntimeconfig.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06_BT01\obj\Debug\net8.0\ref\Lab06_BT01.dll

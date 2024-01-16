@@ -1,0 +1,15 @@
+E:\BackEnd-Web\Lab\Lab06\Lab06\bin\Debug\net8.0\Lab06_TH01.exe
+E:\BackEnd-Web\Lab\Lab06\Lab06\bin\Debug\net8.0\Lab06_TH01.deps.json
+E:\BackEnd-Web\Lab\Lab06\Lab06\bin\Debug\net8.0\Lab06_TH01.runtimeconfig.json
+E:\BackEnd-Web\Lab\Lab06\Lab06\bin\Debug\net8.0\Lab06_TH01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06\bin\Debug\net8.0\Lab06_TH01.pdb
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.AssemblyInfoInputs.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.AssemblyInfo.cs
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.csproj.CoreCompileInputs.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.sourcelink.json
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\refint\Lab06_TH01.dll
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.pdb
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\Lab06_TH01.genruntimeconfig.cache
+E:\BackEnd-Web\Lab\Lab06\Lab06\obj\Debug\net8.0\ref\Lab06_TH01.dll
